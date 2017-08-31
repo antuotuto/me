@@ -12,16 +12,16 @@
     <div class="info">
       <ul>
         <li>
-          <div class="value" contenteditable="true">Male</div>
-          <div class="key" contenteditable="true">SEX</div>
+          <div class="value" contenteditable="true">男</div>
+          <div class="key" contenteditable="true">性别</div>
         </li>
         <li>
           <div class="value" contenteditable="true">23</div>
-          <div class="key" contenteditable="true">AGE</div>
+          <div class="key" contenteditable="true">年龄</div>
         </li>
         <li>
-          <div class="value" contenteditable="true">B</div>
-          <div class="key" contenteditable="true">DEGREE</div>
+          <div class="value" contenteditable="true">电子</div>
+          <div class="key" contenteditable="true">爱好</div>
         </li>
       </ul>
     </div>
