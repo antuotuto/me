@@ -32,7 +32,7 @@
         <ContextList title="关于">
           <ListItemAbout slot="listItem"></ListItemAbout>
         </ContextList>
-        <ContextList title="个人小Demo">
+        <ContextList title="技术展示">
 
         </ContextList>
         <div class="about-me">
