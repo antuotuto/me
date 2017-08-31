@@ -38,13 +38,13 @@
           <ListItemSkill slot="listItem" title="Vue" :percent="70"></ListItemSkill>
         </ContextList>
         <ContextList title="教育">
-          <ListItemEducation slot="listItem" school="湖南中医药大学" major="专科" date="2013.9 — 2015.7"></ListItemEducation>
+          <ListItemEducation slot="listItem" school="湖南中医药大学" major="" date="2013.9 — 2015.7"></ListItemEducation>
         </ContextList>
         <ContextList title="经历">
-          <ListItemExperience slot="listItem" job="十二药网系统重构项目" company="十二药网" date="2015.6 - 2015.12" text="本人职责,Web前端工程师,团队人数,大于15人,工作内容：web前端应用开发及支持视觉设计、产品操作趋于人性化、负责HTML5技术产品开发及相关前端优化、前端设计及编码。"></ListItemExperience>
-          <ListItemExperience slot="listItem" job="药批发网后台" company="药批发网" date="2015.12 - 2016.3" text="本人职责,Web前端工程师,团队人数,大于15人,工作内容：web前端应用开发及支持视觉设计、产品操作趋于人性化、负责HTML5技术产品开发及相关前端优化、前端设计及编码。"></ListItemExperience>
-          <ListItemExperience slot="listItem" job="海南残联项目" company="财资易通" date="2016.4 - 2016.7" text="本人职责,Web前端工程师,团队人数,大于15人,工作内容：web前端应用开发及支持视觉设计、产品操作趋于人性化、负责HTML5技术产品开发及相关前端优化、前端设计及编码。"></ListItemExperience>
-          <ListItemExperience slot="listItem" job="重庆金融云跨境资金管理平台" company="财资易通" date="2016.7 - 2017.8" text="本人职责,Web前端工程师,团队人数,大于15人,工作内容：web前端应用开发及支持视觉设计、产品操作趋于人性化、负责HTML5技术产品开发及相关前端优化、前端设计及编码。"></ListItemExperience>
+          <ListItemExperience slot="listItem" job="十二药网系统重构项目" company="十二药网" date="2015.6 - 2015.12" text="本人职责,Web前端工程师,团队人数,大于15人,工作内容，编写十二药网前台页面，主要是广告页，用到的技术是基础的html，和css。"></ListItemExperience>
+          <ListItemExperience slot="listItem" job="药批发网后台" company="药批发网" date="2015.12 - 2016.3" text="本人职责,Web前端工程师,团队人数,大于15人,工作内容，药批发网的用户管理和个人中心的页面编写，在用html和css的同时加入了easyui。"></ListItemExperience>
+          <ListItemExperience slot="listItem" job="海南残联项目" company="财资易通" date="2016.4 - 2016.7" text="本人职责,Web前端工程师,团队人数,大于20人,工作内容，使用Bootstrap开发的后台系统。"></ListItemExperience>
+          <ListItemExperience slot="listItem" job="重庆金融云跨境资金管理平台" company="财资易通" date="2016.7 - 2017.8" text="本人职责,Web前端工程师,团队人数,大于20人,工作内容使用vue.js，element开发重庆金融云跨境资金管理平台。"></ListItemExperience>
         </ContextList>
       </div>
     </div>
@@ -59,7 +59,7 @@
         <li>
           <img src="./assets/guide_click_right.png" height="60" width="60" alt="">
           <div class="desc">
-            <h3>右击复制文字内容</h3>
+            <h3>三击复制文字内容</h3>
           </div>
         </li>
       </ul>
