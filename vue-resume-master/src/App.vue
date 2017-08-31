@@ -32,6 +32,17 @@
         <ContextList title="关于">
           <ListItemAbout slot="listItem"></ListItemAbout>
         </ContextList>
+        <ContextList title="个人小Demo">
+
+        </ContextList>
+        <div class="about-me">
+          <a href="https://antuotuto.github.io/About-Lover/#/home/1" target="_blank">
+            个人博客
+          </a>
+          <a href="http://118.89.203.41/" target="_blank">
+            后台管理系统
+          </a>
+        </div>
         <ContextList title="技能">
           <ListItemSkill slot="listItem" title="JavaScript" :percent="70"></ListItemSkill>
           <ListItemSkill slot="listItem" title="Html5 + css3" :percent="80"></ListItemSkill>
@@ -277,6 +288,23 @@ export default {
           margin-top: 15px;
         }
       }
+    }
+  }
+
+  .about-me{
+    padding-bottom: 15px;
+    margin-top: -15px;
+    a{
+      display: inline-block;
+      padding: 0.3em 0.9em;
+      margin: 0 0.5em 0.5em 0;
+      white-space: nowrap;
+      background-color: #f1f8ff;
+      border-radius: 3px;
+      color: #0366d6;
+      text-decoration: none;
+      font-size: 12px ;
+      padding: 10px;
     }
   }
 
